@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Green
 ===================================================================================================================================
 
-Web Developer
+Software Engineer | Front End
 -------------
 
 A self taught front-end web developer located in Brooklyn NY. I am passionate about programming and learning about new technologies. Seeking a role as a web developer to utilize my knowledge of programming frameworks and development software.
