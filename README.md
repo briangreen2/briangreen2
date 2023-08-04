@@ -6,7 +6,7 @@ Software Engineer | Front End
 
 A self taught front-end web developer located in Brooklyn NY. I am passionate about programming and learning about new technologies. Seeking a role as a web developer to utilize my knowledge of programming frameworks and development software.
 
-* 🌍  I'm based in Brooklyn, NY
+* 🌍  I'm based in Miami, FL
 * 🖥️  See my portfolio at [Brian's Portfolio](http://www.briangreenportfolio.com/index.html)
 * ✉️  You can contact me at [brian.green1122@gmail.com](mailto:brian.green1122@gmail.com)
 * 🧠  I'm learning Async JavaScript and HTTP Requests
